@@ -1,0 +1,2 @@
+(self.webpackChunkcookie_log=self.webpackChunkcookie_log||[]).push([[594],{5833:function(e,l,n){"use strict";n.r(l);var t=n(7294);l.default=function(){return t.createElement("main",null,t.createElement("title",null,"LOG"),"LOG")}}}]);
+//# sourceMappingURL=component---src-pages-log-js-8a974e9ee741c006145b.js.map
