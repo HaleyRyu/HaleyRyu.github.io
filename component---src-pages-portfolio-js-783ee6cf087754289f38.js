@@ -1,2 +1,0 @@
-(self.webpackChunkcookie_log=self.webpackChunkcookie_log||[]).push([[25],{8994:function(e,l,o){"use strict";o.r(l);var t=o(7294);l.default=function(){return t.createElement("main",null,t.createElement("title",null,"Portfolio"),"portfolio....")}}}]);
-//# sourceMappingURL=component---src-pages-portfolio-js-783ee6cf087754289f38.js.map
