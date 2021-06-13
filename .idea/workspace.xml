@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ea7c75d-faf3-4a30-a67f-06f091222e6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/log/src/pages/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/pages/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/pages/resume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/src/pages/til.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/log/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/log/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/log/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/log/src/pages/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/log" />
+  </component>
+  <component name="ProjectId" id="1lvEbFOCFsgmHTqlTLSge0cmnWS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/Documents/GitHub/shucle-operation-tool/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea7c75d-faf3-4a30-a67f-06f091222e6a" name="Default Changelist" comment="" />
+      <created>1608469233640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608469233640</updated>
+      <workItem from="1608469236512" duration="2398000" />
+      <workItem from="1622298480979" duration="232000" />
+      <workItem from="1622345631366" duration="2000" />
+      <workItem from="1622384012210" duration="790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1622384099992">
+      <screen x="0" y="23" width="1738" height="1097" />
+    </state>
+    <state x="534" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1738.1097@0.23.1738.1097" timestamp="1622384099992" />
+  </component>
+</project>
