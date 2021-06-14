@@ -18,10 +18,11 @@ const Container = styled.div`
     height: 1100px;
 
     .description {
-      font-size: 50px;
+      font-size: 5vw;
+      letter-spacing: 2px;
       width: 70%;
       position: absolute;
-      font-weight: 800;
+      font-weight: 600;
       top: 300px;
       left: 10%;
     }
