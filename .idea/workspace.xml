@@ -20,7 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea7c75d-faf3-4a30-a67f-06f091222e6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Add_apps_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Bell_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Browser_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Crown_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Dashboard_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/FAQ_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Flash_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Marketing_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Message_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Target_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Trophy_perspective_matte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/images/selfie.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/asset/images/selfie.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio.js" afterDir="false" />
     </list>
@@ -42,18 +57,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/icons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/icons/3d" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/Documents/GitHub/shucle-operation-tool/node_modules/prettier" />
     <property name="run.prettier.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/asset/icons" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/icons/3d" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/icons/3d" />
+      <recent name="$PROJECT_DIR$/asset/icons" />
+      <recent name="$PROJECT_DIR$/asset/images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +88,9 @@
       <workItem from="1622298480979" duration="232000" />
       <workItem from="1622345631366" duration="2000" />
       <workItem from="1622384012210" duration="790000" />
-      <workItem from="1623568613212" duration="15393000" />
+      <workItem from="1623568613212" duration="15519000" />
+      <workItem from="1623674704015" duration="997000" />
+      <workItem from="1625918928268" duration="10408000" />
     </task>
     <servers />
   </component>
@@ -87,13 +107,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="551" y="268" width="691" height="676" key="search.everywhere.popup" timestamp="1623575144461">
+    <state x="578" y="326" width="635" height="490" key="find.popup" timestamp="1625966517918">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="578" y="326" width="635" height="490" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1625966517918" />
+    <state x="551" y="268" width="691" height="676" key="search.everywhere.popup" timestamp="1625966512730">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="534" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1738.1097@0.23.1738.1097" timestamp="1622384099992" />
-    <state x="551" y="268" width="691" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1623575144461" />
+    <state x="551" y="268" width="691" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1625966512730" />
     <state x="618" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1623577984760">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
