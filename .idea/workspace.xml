@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ea7c75d-faf3-4a30-a67f-06f091222e6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Add_apps_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Bell_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Browser_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Crown_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Dashboard_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/FAQ_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Flash_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Marketing_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Message_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Target_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/icons/3d/Trophy_perspective_matte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/images/selfie.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/asset/images/selfie.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio.js" afterDir="false" />
@@ -90,7 +76,8 @@
       <workItem from="1622384012210" duration="790000" />
       <workItem from="1623568613212" duration="15519000" />
       <workItem from="1623674704015" duration="997000" />
-      <workItem from="1625918928268" duration="10408000" />
+      <workItem from="1625918928268" duration="11497000" />
+      <workItem from="1626011395874" duration="3532000" />
     </task>
     <servers />
   </component>

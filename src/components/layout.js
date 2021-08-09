@@ -23,7 +23,7 @@ const Header = styled.header`
   background-color: #ffffff;
 
   .wrapper {
-    max-width: 1290px;
+    width: 80%;
     margin: 0 auto;
     height: 73px;
     padding: 0;
@@ -61,7 +61,7 @@ const Header = styled.header`
         margin: 0;
         padding-top: 19px;
 
-        @media only screen and (max-width: 830px) {
+        @media only screen and (max-width: 790px) {
           display: none;
         }
 
@@ -102,17 +102,14 @@ const Header = styled.header`
 
     .menuBtnWrapper {
       display: none;
-      width: 50%;
       height: 100%;
-      float: left;
+      float: right;
       margin: 0;
       padding: 0;
       font-size: 2rem;
-      position: absolute;
-      z-index: 100;
-      left: 50%;
+      margin-top: 19px;
 
-      @media only screen and (max-width: 830px) {
+      @media only screen and (max-width: 790px) {
         display: block;
       }
 
@@ -184,10 +181,10 @@ export default function Layout({ children }) {
                 </a>
               </li>
             </ul>
+            <div className="menuBtnWrapper">
+              <img src={menuIcon}></img>
+            </div>
           </nav>
-          <div className="menuBtnWrapper">
-            <img src={menuIcon}></img>
-          </div>
         </div>
       </Header>
       <Contents>{children}</Contents>

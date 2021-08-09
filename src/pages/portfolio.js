@@ -22,13 +22,13 @@ import TrophyIcon from "../../asset/icons/3d/Trophy_perspective_matte.png";
 const Portfolio = () => {
   return (
     <Layout>
-      <Scroller>
-        <div className="bar"></div>
-        <ul className="timeline">
-          <li>Current</li>
-          <li>2020.</li>
-        </ul>
-      </Scroller>
+      {/*<Scroller>*/}
+      {/*  <div className="bar"></div>*/}
+      {/*  <ul className="timeline">*/}
+      {/*    <li>Current</li>*/}
+      {/*    <li>2020.</li>*/}
+      {/*  </ul>*/}
+      {/*</Scroller>*/}
       <Container>
         <div id="page1">
           <div className="description">
@@ -327,23 +327,38 @@ const Container = styled.div`
 
   .article {
     position: relative;
-    max-width: 1296px;
+    max-width: 1230px;
     margin: 0 auto;
     padding-bottom: 182px;
 
-    @media screen and (max-width: 1439px) {
-      max-width: 999px;
+    @media screen and (max-width: 1710px) {
+      max-width: 1130px;
+    }
+
+    @media screen and (max-width: 1580px) {
+      max-width: 1000px;
+    }
+
+    @media screen and (max-width: 1440px) {
+      max-width: 900px;
     }
 
     @media screen and (max-width: 1023px) {
       //padding-bottom: 172px;
-      max-width: 666px;
+      max-width: 840px;
     }
 
-    @media screen and (max-width: 767px) {
-      max-width: 364px;
-      //padding-left: 24px;
-      //padding-right: 24px;
+    @media screen and (max-width: 900px) {
+      //padding-bottom: 172px;
+      max-width: 730px;
+    }
+
+    @media screen and (max-width: 790px) {
+      max-width: 633px;
+    }
+
+    @media screen and (max-width: 730px) {
+      max-width: 380px;
     }
 
     .companyTitle {
@@ -418,6 +433,19 @@ const BigCard = styled.div`
   box-sizing: border-box;
   margin-bottom: 39px;
   min-height: 400px;
+  overflow: hidden;
+
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    transform: translateY(-5px);
+    -webkit-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    box-shadow: 4px 12px 20px 6px rgb(0 0 0 / 18%);
+  }
 
   .title {
     display: flex;
@@ -455,6 +483,18 @@ const SmallCard = styled.div`
     border-radius: 14px;
     background-color: #ffffff;
     box-shadow: 4px 12px 30px 6px rgb(0 0 0 / 9%);
+
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      transform: translateY(-5px);
+      -webkit-transform: translateY(-5px);
+      -ms-transform: translateY(-5px);
+      -webkit-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+      box-shadow: 4px 12px 20px 6px rgb(0 0 0 / 18%);
+    }
 
     .title {
       padding: 25px 25px 0;
